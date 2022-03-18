@@ -1,5 +1,5 @@
 ### Hi I'm DB Joo 👋
-## My Blog 📎https://dbdbd.tistory.com/
+# Blog 📎https://dbdbd.tistory.com/
 
 <table>
   <thead>
