@@ -1,8 +1,3 @@
-<p align="center" >
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=9999ff&height=300&section=header&text=Dabin Joo&fontSize=60" />
-</p>
-
-<br>  
 
 # About Me
 
