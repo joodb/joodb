@@ -1,7 +1,6 @@
 
 # About Me
 
-<hr>
 
 ### - Frontend Developer
 ### - Here's 👉 [My Blog](https://dbdbd.tistory.com/)
@@ -30,9 +29,9 @@
 
 <br>
 <br>
-<hr>
 
-<br/>  
+
+<br>  
 
 
 ## Connect with me  
