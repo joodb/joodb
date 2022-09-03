@@ -17,7 +17,7 @@
 
 <br>
 
-## Backend 
+## Backend & DB
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 <br>
@@ -29,20 +29,6 @@
 
 <br>
 <br>
-
-
-<br>  
-
-
-## Connect with me  
-<div >
-<a href="https://instagram.com/debin___j" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
 
 
 ## Github Stats  
