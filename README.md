@@ -3,7 +3,6 @@
 
 
 ### - Frontend Developer
-### - Here's 👉 [My Blog](https://dbdbd.tistory.com/)
 
 <br>
 
