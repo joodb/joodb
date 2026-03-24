@@ -53,23 +53,11 @@ const dabin = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=deeb-joo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeb-joo&layout=compact&theme=tokyonight&hide_border=true" height="150" />
-</div>
-
----
-
 ## 📫 Contact
 
 <div>
   <a href="mailto:joodb0126@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" height="48" />
   </a>
-  &nbsp;
-  <a href="https://github.com/deeb-joo">
-    <img src="https://skillicons.dev/icons?i=github" height="48" />
-  </a>
+
 </div>
