@@ -1,31 +1,75 @@
+<div align="center">
+  <a href="https://github.com/deeb-joo">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Dabin+%F0%9F%91%8B;AI+Engineer+%26+Fullstack+Developer;Building+intelligent+things+%F0%9F%A4%96;Open+to+new+opportunities!" alt="Typing SVG" />
+  </a>
+</div>
 
-# About Me
+<br/>
 
+---
 
-### - Frontend Developer
+## 🙋 About Me
 
-<br>
+```ts
+const dabin = {
+  location : "Seoul, Korea 🇰🇷",
+  role     : "AI Engineer & Fullstack Developer",
+  focus    : ["LLM", "AI Agent", "RAG Pipeline", "Web Service"],
+  status   : "🟢 Open to opportunities",
+  contact  : "joodb0126@gmail.com",
+};
+```
 
-<br>
+---
 
-# My Skill Set  
+## 🛠 Tech Stack
 
+### 🤖 AI / LLM
+<div>
+  <img src="https://skillicons.dev/icons?i=python,pytorch" height="48" />
+  <img src="https://skillicons.dev/icons?i=huggingface" height="48" />
+</div>
 
-## Frontend 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<br/>
 
-<br>
+### 🖥 Frontend
+<div>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" height="48" />
+</div>
 
-## Backend & DB
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<br/>
 
-<br>
+### ⚙️ Backend
+<div>
+  <img src="https://skillicons.dev/icons?i=nestjs,postgres" height="48" />
+</div>
 
-## Design
+<br/>
 
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+### 🔧 Tools & Infra
+<div>
+  <img src="https://skillicons.dev/icons?i=git,figma,linux,vscode" height="48" />
+</div>
 
+---
 
-<br>
-<br>
-<br/>  
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=deeb-joo&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deeb-joo&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+</div>
+
+---
+
+## 📫 Contact
+
+<div>
+  <a href="mailto:joodb0126@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/deeb-joo">
+    <img src="https://skillicons.dev/icons?i=github" height="48" />
+  </a>
+</div>
